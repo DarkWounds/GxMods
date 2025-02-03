@@ -1,13 +1,13 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "GameFirst",
+    "description": "A mod featuring the wallpaper of ROG, completed by Valorant background music",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "DarkWounds"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "icon.png"
     },
     "manifest_version": 3,
     "mod":
@@ -18,7 +18,7 @@
             "background_music":
             [
                 "music/track_1.mp3",
-                "music/track_2.mp3",
+                "music/track_2.mp4",
                 "music/track_3.mp3",
                 "music/track_4.mp3"
             ],
@@ -164,14 +164,14 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/dark.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "image": "wallpaper/light.jpg",
+                    "first_frame": "wallpaper/first_frame.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }

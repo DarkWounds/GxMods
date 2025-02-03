@@ -17,10 +17,7 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp4",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/track_1.mp4"
             ],
             "browser_sounds":
             {
@@ -131,33 +128,33 @@
             {
                 "dark":
                 {
-                    "gx_accent":
-                    {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
-                    },
-                    "gx_secondary_base":
-                    {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
-                    }
+                    "gx_accent": 
+		    {
+                  	"h": 356,
+                  	"l": 52,
+                  	"s": 91
+               	    },
+               	    "gx_secondary_base": 
+		     {
+                  	"h": 0,
+                  	"l": 16,
+                  	"s": 0
+               	     }
                 },
                 "light":
                 {
-                    "gx_accent":
-                    {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
-                    },
+                    "gx_accent": 
+		    {
+                  	"h": 356,
+                  	"l": 51,
+                  	"s": 91
+               	    },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
-                    }
+                 	"h": 0,
+                  	"l": 88,
+                  	"s": 0
+               	    }
                 }
             },
             "wallpaper":
